@@ -3,9 +3,10 @@
 
 
 - clone project from github
-- run cmd -> run npm i
+- run cmd -> npm i
 - run cmd -> composer update
 - run cmd -> npm run build
-- update database name and sanctrun config in .env file
+- update database DB_DATABASE and sanctrun config in .env file
+- Update APP_URL, SESSION_DOMAIN, SANCTUM_STATEFUL_DOMAINS in .env
 - run cmd -> php artisan key:generate
 - run cmd -> php artisan migrate
