@@ -1,5 +1,5 @@
 
-## About Laravel
+## Setup Instruction
 
 
 - clone project from github
@@ -8,3 +8,4 @@
 - run cmd -> npm run build
 - update database name and sanctrun config in .env file
 - run cmd -> php artisan key:generate
+- run cmd -> php artisan migrate
