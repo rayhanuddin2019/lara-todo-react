@@ -11,5 +11,7 @@
 - run cmd -> php artisan key:generate
 - run cmd -> php artisan migrate
 
-
+## Video Instruction
 https://www.awesomescreenshot.com/video/35661409?key=08a29e54647ed555bd37d291f511cb16
+
+
